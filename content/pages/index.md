@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: Regain control from your phone.
-    subtitle: Stop mindlessly scrolling on Instagram for hours.
+    subtitle: Stop mindlessly scrolling for hours.
     content: |
       Breaktime is a **simple** way to boost your productivity  & head space.
     actions:
