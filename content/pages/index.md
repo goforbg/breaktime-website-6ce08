@@ -9,9 +9,6 @@ sections:
       management tools into one seamless experience controlled by a single app
       that you can use on any device.
     actions:
-      - label: App Store
-        url: /pricing
-        style: primary
       - label: Google Play
         url: /pricing
         style: secondary
