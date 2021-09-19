@@ -135,7 +135,7 @@ sections:
         media_width: thirty-three
       - title: “A very useful project management app. I use it every day.”
         subtitle: 'Travis Guidelines, Manager at Company'
-        image: images/person-2.png
+        image: /images/Background (3).png
         image_alt: Person 2 photo
         media_position: left
         media_width: thirty-three
