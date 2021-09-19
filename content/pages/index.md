@@ -9,7 +9,7 @@ sections:
       management tools into one seamless experience controlled by a single app
       that you can use on any device.
     actions:
-      - label: Google Play
+      - label: Get it free Google Play
         url: /pricing
         style: secondary
       - label: lorem-ipsum
