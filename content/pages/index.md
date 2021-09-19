@@ -74,7 +74,9 @@ sections:
       - title: Your time is precious.
         subtitle: We help you use it wisely.
         content: |
-          Important text on the way? Simply postpone the break.
+          Important text on the way? 
+
+          Simply postpone the break.
         actions: []
         image: images/feature-1.svg
         image_alt: Feature 1 placeholder image
