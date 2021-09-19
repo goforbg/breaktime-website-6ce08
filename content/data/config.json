@@ -140,7 +140,7 @@
                 "new_window": true
             }
         ],
-        "content": "&copy; Goforbg. All rights reserved. This Jamstack site was created with <a href=\"https://www.stackbit.com/?utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">Stackbit</a>. Create yours <a href=\"https://app.stackbit.com/create?theme=app&utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">now</a>"
+        "content": "&copy; Goforbg. All rights reserved. Built with <a href=\"https://www.stackbit.com/?utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">Stackbit</a>. Create yours <a href=\"https://app.stackbit.com/create?theme=app&utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">now</a>"
     },
     "domain": "https://breaktime-website-6ce08.netlify.app"
 }
