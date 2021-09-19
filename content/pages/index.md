@@ -173,7 +173,9 @@ sections:
     background_image_opacity: 10
 seo:
   title: Breaktime App - Stop mindless scrolling
-  description: The preview of the App theme
+  description: >-
+    Hate mindlessly scrolling on social media apps like Instagram or Tiktok?
+    Download breaktime & boost your productivity!
   extra:
     - name: 'og:type'
       value: website
