@@ -76,7 +76,7 @@ sections:
         content: |
           Take your breaks only when you need them.
         actions: []
-        image: images/feature-1.svg
+        image: /images/feature-2.png
         image_alt: Feature 1 placeholder image
         media_position: left
         media_width: fifty
