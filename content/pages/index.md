@@ -101,7 +101,7 @@ sections:
   - type: features_section
     features:
       - title: “I love the app. It helps me go to sleep faster.”
-        subtitle: 'Lashmi, Student.'
+        subtitle: '- Lashmi, Student.'
         image: /images/1.png
         image_alt: Person 1 photo
         media_position: right
