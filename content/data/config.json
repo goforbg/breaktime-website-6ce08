@@ -11,13 +11,7 @@
         "logo": "/images/logo-32524b48.svg",
         "logo_alt": "Break time app logo",
         "has_primary_nav": true,
-        "primary_nav_links": [
-            {
-                "label": "Pricing",
-                "url": "/pricing",
-                "style": "link"
-            }
-        ],
+        "primary_nav_links": [],
         "has_secondary_nav": true,
         "secondary_nav_links": [
             {
