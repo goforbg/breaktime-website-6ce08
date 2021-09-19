@@ -106,7 +106,7 @@ sections:
         image_alt: Person 1 photo
         media_position: right
         media_width: thirty-three
-      - title: “A very useful project management app. I use it every day.”
+      - title: “It reduced my screen time by 1 hour!”
         subtitle: '- Mahe , Developer.'
         image: /images/Background (3).png
         image_alt: Person 2 photo
