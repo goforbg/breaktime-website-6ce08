@@ -72,7 +72,7 @@ sections:
   - type: features_section
     features:
       - title: Your time is precious.
-        subtitle: For true work-life balance
+        subtitle: We help you use it wisely.
         content: >-
           Stop juggling between calendar apps and productivity tools — from now
           on all your appointments and meetings appear in one place.
