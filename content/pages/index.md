@@ -39,8 +39,8 @@ sections:
       - title: Don't discard your work
         title_align: left
         content: >
-          Break time targets all Android phones above 5.0 (Lollipop). **95%+** 
-          devices of Android devices around the globe can run Break time.
+          Break time appears as an overlay on top of your apps. Resume your work
+          where you left it after the break.
         content_align: left
         actions: []
         actions_align: left
