@@ -72,7 +72,7 @@ sections:
   - type: features_section
     features:
       - title: Your time is precious.
-        subtitle: We help you use it wisely.
+        subtitle: Always be in control.
         content: |
           Take your breaks only when you need them.
         actions: []
