@@ -80,8 +80,7 @@ sections:
         image_alt: Feature 1 placeholder image
         media_position: left
         media_width: fifty
-      - title: Comprehensive Task List
-        subtitle: Always be in control
+      - subtitle: Always be in control
         content: >-
           We all have stuff to do all the time: Work tasks, calls to make,
           groceries to buy and dry cleaning to pick up. Get all your tasks in
