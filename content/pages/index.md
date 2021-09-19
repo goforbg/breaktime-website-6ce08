@@ -81,9 +81,8 @@ sections:
         media_position: left
         media_width: fifty
       - subtitle: Always be in control
-        content: >
-          We all have important things to do all the time. That's why we have
-          notifications to alert you about upcoming breaks. 
+        content: |
+          We offer a great dashboard to view your stats every day. 
         actions: []
         image: /images/feature-1.png
         image_alt: Feature 2 placeholder image
