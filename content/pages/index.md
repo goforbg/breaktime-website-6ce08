@@ -4,10 +4,8 @@ sections:
   - type: hero_section
     title: Regain control from your phone.
     subtitle: Stop mindlessly scrolling on Instagram for hours.
-    content: >-
-      App Land combines your work and home calendars with all your task
-      management tools into one seamless experience controlled by a single app
-      that you can use on any device.
+    content: |
+      Breaktime is a **simple **way to boost your productivity  & head space.
     actions:
       - label: Get it free Google Play
         url: /pricing
