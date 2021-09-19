@@ -74,7 +74,7 @@ sections:
       - title: Your time is precious.
         subtitle: We help you use it wisely.
         content: |
-          Take your breaks when you need it. 
+          Take your breaks only when you need them.
         actions: []
         image: images/feature-1.svg
         image_alt: Feature 1 placeholder image
