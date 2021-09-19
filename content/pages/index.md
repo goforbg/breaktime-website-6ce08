@@ -38,9 +38,9 @@ sections:
         image_position: top
       - title: On Any Device
         title_align: left
-        content: >-
-          App Land synchronizes across Android and iOS phones, and on your
-          computer or tablet. See all your dates and info anywhere you are.
+        content: >
+          Break time targets all Android phones above 5.0 (Lollipop).** 95%+
+          **devices of Android devices around the globe can run Break time.
         content_align: left
         actions: []
         actions_align: left
