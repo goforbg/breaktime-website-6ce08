@@ -172,7 +172,7 @@ sections:
     background_image_size: cover
     background_image_opacity: 10
 seo:
-  title: Stackbit App Theme
+  title: Breaktime App - Stop mindless scrolling
   description: The preview of the App theme
   extra:
     - name: 'og:type'
