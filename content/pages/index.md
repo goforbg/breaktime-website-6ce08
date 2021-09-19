@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: Make the best out of your smartphone.
+    title: Regain control from your phone.
     subtitle: Stop mindlessly scrolling on Instagram for hours.
     content: >-
       App Land combines your work and home calendars with all your task
