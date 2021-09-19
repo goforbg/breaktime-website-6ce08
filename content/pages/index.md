@@ -36,7 +36,7 @@ sections:
         image_align: left
         image_has_padding: true
         image_position: top
-      - title: On Any Device
+      - title: Don't discard your work
         title_align: left
         content: >
           Break time targets all Android phones above 5.0 (Lollipop). **95%+** 
