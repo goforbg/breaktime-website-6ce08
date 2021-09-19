@@ -55,13 +55,7 @@ sections:
           Get color-coded notifications for easy viewing at a glance. Your tasks
           and appointments show up conveniently in one place.
         content_align: left
-        actions:
-          - label: Learn More
-            url: /style-guide
-            style: link
-            has_icon: true
-            icon: arrow-right
-            icon_position: center
+        actions: []
         actions_align: left
         image: images/icon-3.svg
         image_alt: Icon 3
