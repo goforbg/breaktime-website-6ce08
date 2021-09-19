@@ -71,7 +71,7 @@ sections:
     background_color: none
   - type: features_section
     features:
-      - title: Syncronized Calendar
+      - title: Your time is precious.
         subtitle: For true work-life balance
         content: >-
           Stop juggling between calendar apps and productivity tools — from now
