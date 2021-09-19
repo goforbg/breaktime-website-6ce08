@@ -39,8 +39,8 @@ sections:
       - title: On Any Device
         title_align: left
         content: >
-          Break time targets all Android phones above 5.0 (Lollipop).** 95%+
-          **devices of Android devices around the globe can run Break time.
+          Break time targets all Android phones above 5.0 (Lollipop). **95%+** 
+          devices of Android devices around the globe can run Break time.
         content_align: left
         actions: []
         actions_align: left
