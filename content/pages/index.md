@@ -25,9 +25,9 @@ sections:
     grid_items:
       - title: Right When You Need It
         title_align: left
-        content: >-
-          See all of your appointments, work meetings and life events in one
-          place so you know exactly where you need to be at any given time.
+        content: >
+          We want you to **set it, forget it**. Set the frequency of your
+          breaks, and it just works. 
         content_align: left
         actions: []
         actions_align: left
