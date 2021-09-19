@@ -2,9 +2,8 @@
 title: Home
 sections:
   - type: hero_section
-    title: Instantly Boost Your Productivity
-    subtitle: >-
-      Stop switching between calendars and task lists!
+    title: Make the best out of your smartphone.
+    subtitle: Stop switching between calendars and task lists!
     content: >-
       App Land combines your work and home calendars with all your task
       management tools into one seamless experience controlled by a single app
@@ -26,8 +25,7 @@ sections:
     background_color: primary
   - type: grid_section
     title: What's Great About App Land?
-    subtitle: >-
-      In a Glance
+    subtitle: In a Glance
     align: center
     grid_items:
       - title: Right When You Need It
@@ -97,10 +95,10 @@ sections:
   - type: features_section
     features:
       - title: Syncronized Calendar
-        subtitle: >-
-          For true work-life balance
+        subtitle: For true work-life balance
         content: >-
-          Stop juggling between calendar apps and productivity tools — from now on all your appointments and meetings appear in one place.
+          Stop juggling between calendar apps and productivity tools — from now
+          on all your appointments and meetings appear in one place.
         actions:
           - label: Learn More
             url: /pricing
@@ -113,8 +111,7 @@ sections:
         media_position: left
         media_width: fifty
       - title: Comprehensive Task List
-        subtitle: >-
-          Always be in control
+        subtitle: Always be in control
         content: >-
           We all have stuff to do all the time: Work tasks, calls to make,
           groceries to buy and dry cleaning to pick up. Get all your tasks in
@@ -138,16 +135,13 @@ sections:
       - title: >-
           “Fantastic app for planning your day and future tasks. Works perfectly
           everyday!”
-        subtitle: >-
-          Alyvia Cope, Design at Company
+        subtitle: 'Alyvia Cope, Design at Company'
         image: images/person-1.png
         image_alt: Person 1 photo
         media_position: right
         media_width: thirty-three
-      - title: >-
-          “A very useful project management app. I use it every day.”
-        subtitle: >-
-          Travis Guidelines, Manager at Company
+      - title: “A very useful project management app. I use it every day.”
+        subtitle: 'Travis Guidelines, Manager at Company'
         image: images/person-2.png
         image_alt: Person 2 photo
         media_position: left
@@ -157,7 +151,8 @@ sections:
   - type: cta_section
     title: Regain Control of your To Dos
     content: >-
-      Download App Land now and connect with all your calendars, project management tools and task lists — it doesn't get easier than this!
+      Download App Land now and connect with all your calendars, project
+      management tools and task lists — it doesn't get easier than this!
     actions:
       - label: App Store
         url: /pricing
@@ -204,26 +199,26 @@ seo:
   title: Stackbit App Theme
   description: The preview of the App theme
   extra:
-    - name: og:type
+    - name: 'og:type'
       value: website
       keyName: property
-    - name: og:title
+    - name: 'og:title'
       value: Stackbit App Theme
       keyName: property
-    - name: og:description
+    - name: 'og:description'
       value: The preview of the App theme
       keyName: property
-    - name: og:image
+    - name: 'og:image'
       value: images/post-1.jpg
       keyName: property
       relativeUrl: true
-    - name: twitter:card
+    - name: 'twitter:card'
       value: summary_large_image
-    - name: twitter:title
+    - name: 'twitter:title'
       value: Stackbit App Theme
-    - name: twitter:description
+    - name: 'twitter:description'
       value: The preview of the App theme
-    - name: twitter:image
+    - name: 'twitter:image'
       value: images/post-1.jpg
       relativeUrl: true
 layout: advanced
