@@ -113,9 +113,10 @@ sections:
     background_color: secondary
   - type: cta_section
     title: Stop Doom Scrolling!
-    content: >
-      Download Breaktime now and take the breaks you deserve — it doesn't get
-      easier than this!
+    content: |
+      Download Breaktime now and take the breaks you deserve. 
+
+      It doesn't get easier than this!
     actions:
       - label: Get it Free on Google Play
         url: /pricing
