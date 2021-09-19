@@ -73,8 +73,10 @@ sections:
     features:
       - title: Your time is precious.
         subtitle: Always be in control.
-        content: |
-          Take your breaks only when you need them.
+        content: >+
+          We all have important things to do all the time. That's why we have
+          notifications to alert you about upcoming breaks.
+
         actions: []
         image: /images/feature-2.png
         image_alt: Feature 1 placeholder image
