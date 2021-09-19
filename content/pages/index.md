@@ -147,9 +147,6 @@ sections:
       Download Breaktime now and take the breaks you deserve — it doesn't get
       easier than this!
     actions:
-      - label: App Store
-        url: /pricing
-        style: primary
       - label: Google Play
         url: /pricing
         style: secondary
