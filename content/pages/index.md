@@ -130,7 +130,7 @@ sections:
   - type: features_section
     features:
       - title: “I love the app. It helps me go to sleep faster.”
-        subtitle: 'Alyvia Cope, Design at Company'
+        subtitle: 'Lashmi, Student.'
         image: images/person-1.png
         image_alt: Person 1 photo
         media_position: right
