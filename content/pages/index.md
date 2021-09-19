@@ -85,7 +85,7 @@ sections:
           We all have important things to do all the time. That's why we have
           notifications to alert you about upcoming breaks. 
         actions: []
-        image: images/feature-2.svg
+        image: /images/feature-1.png
         image_alt: Feature 2 placeholder image
         media_position: right
         media_width: fifty
