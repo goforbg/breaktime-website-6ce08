@@ -8,7 +8,7 @@
     "base_font": "sans-serif",
     "header": {
         "title": "App",
-        "logo": "images/logo.svg",
+        "logo": "/images/logo-32524b48.svg",
         "logo_alt": "App logo",
         "has_primary_nav": true,
         "primary_nav_links": [
