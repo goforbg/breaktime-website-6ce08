@@ -147,7 +147,7 @@ sections:
       Download Breaktime now and take the breaks you deserve — it doesn't get
       easier than this!
     actions:
-      - label: Google Play
+      - label: Get it Free on Google Play
         url: /pricing
         style: secondary
         has_icon: false
