@@ -86,7 +86,9 @@ sections:
         media_width: fifty
       - subtitle: Always be in control
         content: |
-          We offer a great dashboard to view your stats every day. 
+          We offer a great dashboard to view your stats every day.
+
+          Breaktime also has a great setting and help page to get you started.
         actions: []
         image: /images/feature-1.png
         image_alt: Feature 2 placeholder image
