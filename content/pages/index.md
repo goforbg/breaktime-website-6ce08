@@ -81,10 +81,9 @@ sections:
         media_position: left
         media_width: fifty
       - subtitle: Always be in control
-        content: >-
-          We all have stuff to do all the time: Work tasks, calls to make,
-          groceries to buy and dry cleaning to pick up. Get all your tasks in
-          one place for easy management.
+        content: >
+          We all have important things to do all the time. That's why we have
+          notifications to alert you about upcoming breaks. 
         actions: []
         image: images/feature-2.svg
         image_alt: Feature 2 placeholder image
