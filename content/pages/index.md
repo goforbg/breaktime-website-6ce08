@@ -51,9 +51,9 @@ sections:
         image_position: top
       - title: Smart Notifications
         title_align: left
-        content: >-
-          Get color-coded notifications for easy viewing at a glance. Your tasks
-          and appointments show up conveniently in one place.
+        content: >
+          Get notifications before each break. Skip breaks without leaving any
+          screen.
         content_align: left
         actions: []
         actions_align: left
