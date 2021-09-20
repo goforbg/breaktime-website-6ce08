@@ -107,7 +107,7 @@ sections:
         media_position: right
         media_width: thirty-three
       - title: “It reduced my screen time by 1 hour!”
-        subtitle: '- Mahe , Developer.'
+        subtitle: '- Mahe, Developer.'
         image: /images/Background (3).png
         image_alt: Person 2 photo
         media_position: left
