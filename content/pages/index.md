@@ -8,7 +8,7 @@ sections:
       Breaktime is a **simple** way to boost your productivity  & head space.
     actions:
       - label: Get it free on Google Play
-        url: 'https://'
+        url: 'https://bit.ly/3ztmOgi'
         style: secondary
     image: /images/product_demo_blue.gif
     image_alt: Hero section placeholder image
