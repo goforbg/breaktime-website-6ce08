@@ -42,7 +42,7 @@
         "secondary_nav_title": "About",
         "secondary_nav_links": [
             {
-                "label": "News",
+                "label": "Notion Page",
                 "url": "/blog/category/news",
                 "style": "link"
             },
