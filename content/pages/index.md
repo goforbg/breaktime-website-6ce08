@@ -122,7 +122,7 @@ sections:
       It doesn't get easier than this!
     actions:
       - label: Get it Free on Google Play
-        url: /pricing
+        url: 'https://bit.ly/3ArJoXV'
         style: secondary
         has_icon: false
         icon: arrow-left
