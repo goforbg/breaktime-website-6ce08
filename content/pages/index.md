@@ -10,7 +10,7 @@ sections:
       - label: Get it free on Google Play
         url: /pricing
         style: secondary
-    image: /images/Break_time_product_demo.gif
+    image: /images/product_demo_blue.gif
     image_alt: Hero section placeholder image
     media_position: left
     media_width: fifty
