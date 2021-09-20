@@ -55,6 +55,16 @@
                 "label": "Tutorials",
                 "url": "https://goforbg.notion.site/Tutorials-6bf289eea0a044ba9dc5a589dc3e42d4",
                 "style": "link"
+            },
+            {
+                "label": "lorem-ipsum",
+                "url": "#",
+                "style": "link",
+                "has_icon": false,
+                "icon": "arrow-left",
+                "icon_position": "right",
+                "new_window": false,
+                "no_follow": false
             }
         ],
         "has_tertiary_nav": true,
