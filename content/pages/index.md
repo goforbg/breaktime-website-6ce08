@@ -168,7 +168,7 @@ seo:
         Stop mindlessly scrolling on social media apps like Instagram or Tiktok.
         Download breaktime & boost your productivity!
     - name: 'twitter:image'
-      value: images/post-1.jpg
+      value: /images/logo-32524b48.svg
       relativeUrl: true
 layout: advanced
 ---
