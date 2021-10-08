@@ -164,7 +164,9 @@ seo:
     - name: 'twitter:title'
       value: 'Breaktime App - Stop mindless scrolling '
     - name: 'twitter:description'
-      value: The preview of the App theme
+      value: >-
+        Stop mindlessly scrolling on social media apps like Instagram or Tiktok.
+        Download breaktime & boost your productivity!
     - name: 'twitter:image'
       value: images/post-1.jpg
       relativeUrl: true
