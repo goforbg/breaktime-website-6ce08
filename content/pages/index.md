@@ -151,7 +151,9 @@ seo:
       value: Stackbit App Theme
       keyName: property
     - name: 'og:description'
-      value: The preview of the App theme
+      value: >-
+        Stop mindlessly scrolling on social media apps like Instagram or Tiktok.
+        Download breaktime & boost your productivity!
       keyName: property
     - name: 'og:image'
       value: /images/logo-32524b48.svg
