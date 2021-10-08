@@ -162,7 +162,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Stackbit App Theme
+      value: 'Breaktime App - Stop mindless scrolling '
     - name: 'twitter:description'
       value: The preview of the App theme
     - name: 'twitter:image'
