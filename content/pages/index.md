@@ -148,7 +148,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Stackbit App Theme
+      value: 'Breaktime App - Stop mindless scrolling '
       keyName: property
     - name: 'og:description'
       value: >-
