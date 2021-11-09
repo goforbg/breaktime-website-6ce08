@@ -93,7 +93,7 @@ export default class Body extends React.Component {
                     <title>{title}</title>
                     <meta charSet="utf-8" />
                     <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1051562237299725"
-     crossorigin="anonymous"></script>
+                    crossorigin="anonymous"></script>
                     <meta name="viewport" content="width=device-width, initial-scale=1" />
                     <meta name="google" content="notranslate" />
                     <meta name="description" content={seoDescription} />
